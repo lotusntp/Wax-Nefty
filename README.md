@@ -2,4 +2,4 @@
 
 ## Requestment
 - Open terminal
-``Use `code` in your Markdown file.``
+``Use `pip install -r .\requirements.txt` in your Markdown file.``

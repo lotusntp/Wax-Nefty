@@ -7,5 +7,8 @@ First things first, let's get things installed. Run the following pip command fr
 
 ``pip install -r .\requirements.txt``
 
-### Setting sesion , dropId and count
+### Setting the file setting.json
+- Add sesion
+- Add dropID
+- Add count
 

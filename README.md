@@ -1,5 +1,8 @@
 # Automation buy drop Neftyblocks
 Hello and welcome to this Bot that will help you buy drop Neftyblocks
+<div align="center">
+  <img src="https://bp.neftyblocks.com/preview.png" alt=""/>
+</div>
 ## <a name="how-to-use"></a> How to use it
 ### Install the package
 

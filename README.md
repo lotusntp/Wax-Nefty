@@ -1,6 +1,6 @@
 # Automation buy drop Neftyblocks
 
-## Requestment
+### How to use it
 - Open terminal
 
 ``pip install -r .\requirements.txt``

@@ -9,6 +9,9 @@ First things first, let's get things installed. Run the following pip command fr
 
 ### Setting the file setting.json
 - Add sesion
-- Add dropID
+- Add dropid
 - Add count
 
+<div align="left">
+  <img src="https://res.cloudinary.com/dtxsiexns/image/upload/v1661872468/code_t2vwnj.png" alt=""/>
+</div>
